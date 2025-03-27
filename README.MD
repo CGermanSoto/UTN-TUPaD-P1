@@ -3,7 +3,7 @@
 📍 *Universidad Tecnológica Nacional*  
 
 ## ✨ Estudiante  
-- **Nombre:** Germán Soto*  
+- **Nombre:** Germán Soto
 - **Comisión:** M2025-22
 
 ## 📂 Descripción del Repositorio  
